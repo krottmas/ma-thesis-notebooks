@@ -1,1 +1,1 @@
-# Jupyter Notebooks for Thesis research 
+# Jupyter Notebooks for thesis research 
