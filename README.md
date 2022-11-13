@@ -1,1 +1,1 @@
-# ma-thesis-notebooks
+# Jupyter Notebooks for Thesis research 
